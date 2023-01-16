@@ -1,2 +1,2 @@
 # 26RendyWebsite
-kumpulan portofolio objek pemprograman website
+kumpulan portofolio projek pemprograman website
